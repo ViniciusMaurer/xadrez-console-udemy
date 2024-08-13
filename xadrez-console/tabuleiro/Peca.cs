@@ -20,7 +20,7 @@
             qteMovimentos++;
         }
 
-        public void decrementarQteMoviemtnos()
+        public void decrementarQteMovimentos()
         {
             qteMovimentos--;
         }
